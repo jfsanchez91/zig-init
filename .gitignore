@@ -1,0 +1,10 @@
+.zig-cache/
+zig-out/
+.local/
+*.o
+bin/
+.env
+.vscode/
+.idea/
+.settings
+.project
